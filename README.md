@@ -17,10 +17,16 @@ Patients can make payments after successfully booking an appointment for consult
 
 Sign up and Sign in Page
 ![Signup Page ](images/signup.png) 
+
 ![Landing Page](images/landing-page.png)
-![Login-to-see-Appointment] (images/appointment.png)
-![Get-Appointment] (images/available-appointments.png)
+
+![Login to see Appointment](images/appointment.png)
+
+![Get-Appointment](images/available-appointments.png)
+
 ![See-Your-Appointments](images/users-appointments.png)
+
 ![Admin-dashboard](images/admin-dashboard.png)
+
 ![Patient-list](images/aptient-list.png)
 
