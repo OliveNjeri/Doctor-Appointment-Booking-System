@@ -13,3 +13,14 @@ Patients can make payments after successfully booking an appointment for consult
 - Option to select a doctor and view appointment date.
 - CRUD operations and additional features.
 - Responsive design with a dynamic header and preloader.
+
+
+Sign up and Sign in Page
+<img src = images/signup.png "Signup-page" >
+<img src= images/landing-page.page "Landing-Page">
+<img src = images/appointment.png "Login-to-see-Appointment" >
+<img src = images/available-appointments.png "Get-Appointment" >
+<img src = images/users-appointments.png "See-Your-Appointments" >
+<img src = images/admin-dashboard.png "Admin-dashboard" >
+<img src = images/aptient-list.png "Patient-list" >
+
