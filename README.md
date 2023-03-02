@@ -28,5 +28,5 @@ Sign up and Sign in Page
 
 ![Admin-dashboard](images/admin-dashboard.png)
 
-![Patient-list](images/aptient-list.png)
+![Patient-list](images/patient-list.png)
 
