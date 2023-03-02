@@ -1,4 +1,4 @@
-# Online Doctor Appointment
+# Doctor's Appointment Booking Application
 
 Patients can select a desired doctor appointment date through the online platform. 
 Patients can get SMS for verification after successfully booking an appointment.
